@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editPhone" type="id" />
+    <item name="nickname" type="id" />
+    <item name="edit_profile_ek1" type="id" />
+    <item name="component" type="id" />
+    <item name="rectangle_3" type="id" />
+    <item name="email_address" type="id" />
+    <item name="component_ek1" type="id" />
+    <item name="rectangle_2_ek4" type="id" />
+    <item name="rectangle_3_ek1" type="id" />
+    <item name="phone_number" type="id" />
+    <item name="component_ek2" type="id" />
+    <item name="rectangle_2_ek5" type="id" />
+    <item name="rectangle_3_ek2" type="id" />
+    <item name="nick_name" type="id" />
+    <item name="button" type="id" />
+    <item name="rectangle_2_ek6" type="id" />
+    <item name="ok" type="id" />
+    <item name="button_ek1" type="id" />
+    <item name="change_password" type="id" />
+</resources>

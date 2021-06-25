@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- home colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="white">#FFFFFF</color>
+	<color name="black">#000000</color>
+	<color name="_bg__editprofile__ek2_color">#FFFFFF</color>
+	<color name="_bg__buydogs_ek2_color">#FFF8F8</color>
+
+
+	<color name="_bg__android___1_ek2_color">#FFF8F8</color>
+	<color name="rectangle_1_color">#F8F0F0</color>
+	<color name="search_color">#000000</color>
+	<color name="rectangle_14_color">#FFFFFF</color>
+	<color name="_100_000_vn__color">#FF0000</color>
+	<color name="rectangle_2_color">#E5E1FF</color>
+	<color name="_rectangle_25_color">#F6F0FB</color>
+	<color name="rectangle_26_color">#FFB6B6</color>
+	<color name="xem_l_ch_s__color">#2300FF</color>
+	<color name="rectangle_27_color">#000AFF</color>
+	<color name="male_color">#0400F1</color>
+	<color name="rectangle_18_color">#DF7800</color>
+	<color name="rectangle_19_color">#C4C4C4</color>
+	<color name="ellipse_5_color">#0028FF</color>
+</resources>

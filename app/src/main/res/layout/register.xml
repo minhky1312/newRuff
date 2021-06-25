@@ -1,0 +1,271 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		home
+	 *	@date 		1624354588381
+	 *	@title 		Page 2
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<RelativeLayout android:id="@+id/google_pixel_2_xl___8"
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_google_pixel_2_xl___8_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__google_pixel_2_xl___8_ek2"
+					android:background="@drawable/_bg__google_pixel_2_xl___8_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="411dp"
+					android:layout_height="823dp" />
+
+
+				<RelativeLayout android:id="@+id/component_ek5"
+					android:layout_marginTop="237dp"
+					android:layout_marginStart="35dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_2_ek12"
+						android:background="@drawable/rectangle_2_ek12_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<View android:id="@+id/rectangle_3_ek5"
+						android:background="@drawable/rectangle_3_ek5_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<EditText
+						android:id="@+id/editTextTextEmailAddress3"
+						android:layout_width="340dp"
+						android:layout_height="wrap_content"
+						android:layout_marginTop="5dp"
+						android:ems="10"
+						android:hint="Email"
+						android:inputType="textEmailAddress" />
+
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/component_ek6"
+					android:layout_marginTop="308dp"
+					android:layout_marginStart="35dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_2_ek13"
+						android:background="@drawable/rectangle_2_ek13_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<View android:id="@+id/rectangle_3_ek6"
+						android:background="@drawable/rectangle_3_ek6_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+					<EditText
+						android:id="@+id/editTextTextPassword3"
+						android:layout_width="340dp"
+						android:layout_height="wrap_content"
+						android:layout_marginTop="5dp"
+						android:ems="10"
+						android:hint="Enter Password"
+						android:inputType="textPassword" />
+
+
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/component_ek7"
+					android:layout_marginTop="379dp"
+					android:layout_marginStart="35dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_2_ek14"
+						android:background="@drawable/rectangle_2_ek14_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<View android:id="@+id/rectangle_3_ek7"
+						android:background="@drawable/rectangle_3_ek7_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<EditText
+						android:id="@+id/editTextTextPassword4"
+						android:layout_width="340dp"
+						android:layout_height="wrap_content"
+						android:layout_marginTop="5dp"
+						android:ems="10"
+						android:hint="Re-enter Password"
+						android:inputType="textPassword" />
+
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/button_ek3"
+					android:layout_marginTop="450dp"
+					android:layout_marginStart="35dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/_rectangle_2_ek15"
+						android:background="@drawable/_rectangle_2_ek15_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<TextView android:id="@+id/register"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="15sp"
+						android:textColor="@color/white"
+						android:layout_marginLeft="136.29dp"
+						android:layout_marginTop="19dp"
+						android:layout_width="77dp"
+						android:layout_height="24.5dp"
+						android:text="@string/register_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/frame_17_ek4"
+					android:layout_marginTop="-1dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/arrow_back_ek5"
+						android:layout_marginTop="10dp"
+						android:layout_marginStart="10dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/vector_ek126"
+							android:src="@drawable/vector_ek126"
+							android:contentDescription="vector_ek126"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="40dp"
+							android:layout_height="40dp" />
+
+						<ImageView android:id="@+id/vector_ek127"
+							android:src="@drawable/vector_ek127"
+							android:contentDescription="vector_ek127"
+							 android:layout_marginStart="6.67dp"
+							android:layout_marginTop="6.67dp"
+							android:layout_width="26.67dp"
+							android:layout_height="26.67dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/frame_34_ek2"
+						android:layout_marginTop="60dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/_log_in_"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="18sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="305dp"
+					android:layout_marginTop="506dp"
+					android:layout_width="63dp"
+					android:layout_height="24.5dp"
+					android:text="@string/_log_in__string"
+					 />
+
+				<TextView android:id="@+id/register_ek1"
+					android:textStyle="bold"
+					android:textSize="36sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="40dp"
+					android:layout_marginTop="163dp"
+					android:layout_width="159dp"
+					android:layout_height="67dp"
+					android:text="@string/register_ek1_string"
+					 />
+
+				<ImageView android:id="@+id/rectangle_33"
+					android:src="@drawable/rectangle_33"
+					android:contentDescription="rectangle_33"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="521dp"
+					android:layout_width="411dp"
+					android:layout_height="301dp" />
+
+				<TextView android:id="@+id/ruff_pets_ek5"
+					android:textStyle="bold"
+					android:textSize="64sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="71dp"
+					android:layout_marginTop="59dp"
+					android:layout_width="306dp"
+					android:layout_height="92dp"
+					android:text="@string/ruff_pets_ek3_string"
+					 />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</RelativeLayout>
+</RelativeLayout>

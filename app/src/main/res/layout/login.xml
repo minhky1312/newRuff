@@ -1,0 +1,204 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		home
+	 *	@date 		1624354588381
+	 *	@title 		Page 2
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<RelativeLayout android:id="@+id/google_pixel_2_xl___7"
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<RelativeLayout android:id="@+id/page_google_pixel_2_xl___7_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__google_pixel_2_xl___7_ek2"
+					android:background="@drawable/_bg__google_pixel_2_xl___7_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="411dp"
+					android:layout_height="823dp" />
+
+
+				<RelativeLayout android:id="@+id/component_ek3"
+					android:layout_marginTop="238dp"
+					android:layout_marginStart="34dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_2_ek9"
+						android:background="@drawable/rectangle_2_ek9_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<View android:id="@+id/rectangle_3_ek3"
+						android:background="@drawable/rectangle_3_ek3_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<EditText
+						android:id="@+id/editTextTextEmailAddress"
+						android:layout_width="340dp"
+						android:layout_height="50dp"
+						android:layout_marginTop="2dp"
+						android:ems="10"
+						android:hint="Email"
+						android:inputType="textEmailAddress" />
+
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/component_ek4"
+					android:layout_marginTop="336dp"
+					android:layout_marginStart="34dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_2_ek10"
+						android:background="@drawable/rectangle_2_ek10_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<View android:id="@+id/rectangle_3_ek4"
+						android:background="@drawable/rectangle_3_ek4_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<EditText
+						android:id="@+id/editTextTextPassword"
+						android:layout_marginTop="2dp"
+						android:layout_width="340dp"
+						android:layout_height="50dp"
+						android:ems="10"
+						android:hint="Password"
+						android:inputType="textPassword" />
+
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/button_ek2"
+					android:layout_marginTop="409dp"
+					android:layout_marginStart="34dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/_rectangle_2_ek11"
+						android:background="@drawable/_rectangle_2_ek11_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="347dp"
+						android:layout_height="56dp" />
+
+					<TextView android:id="@+id/log_in"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="18sp"
+						android:textColor="@color/white"
+						android:layout_marginLeft="146.29dp"
+						android:layout_marginTop="17dp"
+						android:layout_width="56dp"
+						android:layout_height="24.5dp"
+						android:text="@string/log_in_string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/_register_"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="18sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="293dp"
+					android:layout_marginTop="473dp"
+					android:layout_width="84dp"
+					android:layout_height="24.5dp"
+					android:text="@string/_register__string"
+					 />
+
+				<TextView android:id="@+id/reset_pass"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="18sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="35dp"
+					android:layout_marginTop="473dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/_reset_pass__string"
+					/>
+
+				<TextView android:id="@+id/log_in_ek1"
+					android:textStyle="bold"
+					android:textSize="36sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="34dp"
+					android:layout_marginTop="168dp"
+					android:layout_width="124dp"
+					android:layout_height="67dp"
+					android:text="@string/log_in_ek1_string"
+					 />
+
+				<ImageView
+					android:id="@+id/rectangle_32"
+					android:layout_width="411dp"
+					android:layout_height="301dp"
+					android:layout_alignParentStart="true"
+					android:layout_alignParentEnd="true"
+					android:layout_alignParentBottom="true"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="534dp"
+					android:layout_marginEnd="0dp"
+					android:layout_marginBottom="0dp"
+					android:contentDescription="rectangle_33"
+					android:src="@drawable/rectangle_32" />
+
+				<TextView android:id="@+id/ruff_pets_ek4"
+
+					android:textStyle="bold"
+					android:textSize="64sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="71dp"
+					android:layout_marginTop="56dp"
+					android:layout_width="306dp"
+					android:layout_height="92dp"
+					android:text="@string/ruff_pets_ek3_string"
+					 />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</RelativeLayout>
+</RelativeLayout>
